@@ -1,3 +1,0 @@
-1. How should we make our initial guess? random
-2. How should we make hyperparams? choose
-3. How do I make my points more visible in 3d graph in q1? Its fine
